@@ -28,10 +28,10 @@ a {
     text-decoration: underline;
 }
 
-    a:hover {
-        color: #e1762a;
-        text-decoration: underline;
-    }
+a:hover {
+    color: #e1762a;
+    text-decoration: underline;
+}
 
 #wrapper {
     width: 939px;
@@ -49,31 +49,35 @@ a {
     width: 527px;
     height: 248px;
     float: left;
-  text-align:center;
+    text-align: center;
 }
+
 #logo .site-title {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 40px;
-  font-stretch: wider;
-  color: #FFF;
-  font-weight: bold;
-  padding-top: 103px;
-  text-shadow: 0px 3px 3px black;
-  text-transform:capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-stretch: wider;
+    color: #FFF;
+    font-weight: bold;
+    padding-top: 103px;
+    text-shadow: 0px 3px 3px black;
+    text-transform: capitalize;
 }
-#logo .site-title a{
-  color:#FFF;
-  text-decoration:none;}
+
+#logo .site-title a {
+    color: #FFF;
+    text-decoration: none;
+}
 
 #logo .site-description {
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 24px;
-  font-style:italic;
-  color:#f3f298;
+    font-style: italic;
+    color: #f3f298;
     font-weight: normal;
-  padding-top: 20px;
-  text-shadow: 0px 3px 3px black;
+    padding-top: 20px;
+    text-shadow: 0px 3px 3px black;
 }
+
 #photo-frame {
     background: url(../images/photo-frame.png) no-repeat;
     width: 412px;
@@ -91,7 +95,12 @@ a {
     padding-top: 23px;
     padding-left: 46px;
 }
-#nav-bar li{float:left;list-style:none;margin-right:20px;}
+
+#nav-bar li {
+    float: left;
+    list-style: none;
+    margin-right: 20px;
+}
 
 .int-nav-area {
     color: #D3A432;
@@ -125,7 +134,11 @@ a {
     font-weight: bold;
     line-height: 24px;
 }
-#nav-bar li ul{display:none;}
+
+#nav-bar li ul {
+    display: none;
+}
+
 #container2 {
     width: 939px;
     height: 483px;
@@ -288,10 +301,10 @@ a.alter-link3:hover {
     overflow: auto;
 }
 
-    #photoGallery img {
-        margin: 0 2px 0 0;
-        border: 1px solid #807f7c;
-    }
+#photoGallery img {
+    margin: 0 2px 0 0;
+    border: 1px solid #807f7c;
+}
 
 .mainPic {
     border: 1px solid #83744d;
