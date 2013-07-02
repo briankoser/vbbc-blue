@@ -353,6 +353,15 @@ a.alter-link3:hover {
     margin-bottom: 2px;
 }
 
+.category {
+    background: #254055;
+    padding: 10px;
+    width: 392px;
+    border: #a2aeb8 1px solid;
+    height: 100%;
+    color: #ebe8e3;
+}
+
 .category-left {
     background: #254055;
     padding: 10px;
